@@ -23,7 +23,7 @@ Este repositório reúne três projetos distintos desenvolvidos com HTML, CSS e 
 
 **Tecnologias:**  
 - ReactJS  
-- CSS Modules ou Styled Components (dependendo da implementação)
+- CSS Modules 
 
 **Funcionalidades:**
 - Componentização
@@ -33,7 +33,7 @@ Este repositório reúne três projetos distintos desenvolvidos com HTML, CSS e 
 ---
 
 ### 3. [View - Novo Cliente PiteraBox](https://view-novo-cliente-pitera-box.vercel.app/)
-> Site desenvolvido para um cliente fictício (PiteraBox), com objetivo de apresentar produtos e funcionalidades básicas de navegação. Projeto desenvolvido com HTML e CSS, com foco em usabilidade e clareza visual.
+> Site desenvolvido para um cliente fictício (PiteraBox), com objetivo de apresentar produtos e funcionalidades básicas de navegação. Projeto desenvolvido com HTML, CSS, JavaScript e NodeJS com foco em usabilidade e clareza visual.
 
 **Tecnologias:**  
 - HTML5  
