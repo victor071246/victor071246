@@ -62,7 +62,7 @@ Cada projeto está em seu respectivo repositório e pode ser acessado pelos link
 Caso queira conversar sobre os projetos ou oportunidades de colaboração:
 
 **Email:** daderiovictorfelipe@gmail.com  
-**LinkedIn:** [seu-linkedin](https://www.linkedin.com/in/victor-felipe-dad%C3%A9rio-708923230/)
+**LinkedIn:** [Victor](https://www.linkedin.com/in/victor-felipe-dad%C3%A9rio-708923230/)
 
 ---
 
