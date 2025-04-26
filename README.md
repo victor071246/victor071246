@@ -1,20 +1,21 @@
 # Portfólio de Projetos Web
 
-Este repositório reúne três projetos distintos desenvolvidos com HTML, CSS e React, hospedados na Vercel. Os projetos demonstram habilidades em estruturação de páginas, responsividade e boas práticas de front-end.
+Este repositório reúne três projetos distintos desenvolvidos com HTML, CSS, JavaScript e React, hospedados na Vercel. Os projetos demonstram habilidades em estruturação de páginas, responsividade e boas práticas de front-end.
 
 ## 🌐 Projetos Hospedados
 
 ### 1. [View - Desafio Estágio HTML/CSS](https://view-desafio-estagio-css-html-9vcn.vercel.app/)
-> Projeto desenvolvido como parte de um desafio de estágio, utilizando HTML5 e CSS3 puros. A proposta envolve a criação de uma landing page estática com foco em estruturação semântica e design responsivo.
+> Projeto desenvolvido como parte de um desafio de estágio, utilizando HTML5 e CSS3 puros com um pouco de JavaScript. A proposta envolve a criação de uma landing page estática com foco em estruturação semântica e design responsivo.
 
 **Tecnologias:**  
 - HTML5  
-- CSS3  
+- CSS3
+- JavaScript  
 
 **Funcionalidades:**
 - Layout responsivo
-- Organização semântica
 - Menu de navegação
+- Carrossel Swiper em JS
 
 ---
 
@@ -29,6 +30,7 @@ Este repositório reúne três projetos distintos desenvolvidos com HTML, CSS e 
 - Componentização
 - Navegação entre páginas
 - Estilo modularizado
+- Animação de carregamento enquanto a API é carregada
 
 ---
 
