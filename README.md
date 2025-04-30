@@ -54,7 +54,8 @@ Este repositório reúne três projetos distintos desenvolvidos com HTML, CSS, J
 
 ## 🚀 Deploy
 Tanto o projeto responsivo quanto o desafio em react, foram implementados na [Vercel](https://vercel.com/).
-Já o trabalho do projeto integrador da empresa PiteraBox, foi implementado no [Render](https://projetointegradortestes.onrender.com/index.html)
+Já o trabalho do projeto integrador da empresa PiteraBox, 
+foi implementado no [Render](https://projetointegradortestes.onrender.com/index.html)
 
 ## 📁 Organização dos Repositórios
 Cada projeto está em seu respectivo repositório e pode ser acessado pelos links acima.
