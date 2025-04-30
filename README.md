@@ -34,7 +34,7 @@ Este repositório reúne três projetos distintos desenvolvidos com HTML, CSS, J
 
 ---
 
-### 3. [View - Novo Cliente PiteraBox](https://view-novo-cliente-pitera-box.vercel.app/)
+### 3. [View - Novo Cliente PiteraBox](https://projetointegradortestes.onrender.com/index.html)
 > Site desenvolvido para um cliente fictício (PiteraBox), com objetivo de apresentar produtos e funcionalidades básicas de navegação. Projeto desenvolvido com HTML, CSS, JavaScript e NodeJS com foco em usabilidade e clareza visual.
 
 **Tecnologias:**  
@@ -53,7 +53,8 @@ Este repositório reúne três projetos distintos desenvolvidos com HTML, CSS, J
 ---
 
 ## 🚀 Deploy
-Todos os projetos foram implantados na [Vercel](https://vercel.com/), plataforma de hospedagem para aplicações front-end modernas.
+Tanto o projeto responsivo quanto o desafio em react, foram implementados na [Vercel](https://vercel.com/).
+Já o trabalho do projeto integrador da empresa PiteraBox, foi implementado no [Render](https://projetointegradortestes.onrender.com/index.html)
 
 ## 📁 Organização dos Repositórios
 Cada projeto está em seu respectivo repositório e pode ser acessado pelos links acima.
