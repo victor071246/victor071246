@@ -5,7 +5,7 @@ Este repositório reúne três projetos distintos desenvolvidos com HTML, CSS, J
 ## 🌐 Projetos Hospedados
 
 ### 1. [View - Desafio Estágio HTML/CSS](https://view-desafio-estagio-css-html-9vcn.vercel.app/)
-> Projeto desenvolvido como parte de um desafio de estágio, utilizando HTML5 e CSS3 puros com um pouco de JavaScript. A proposta envolve a criação de uma landing page estática com foco em estruturação semântica e design responsivo.
+> Projeto desenvolvido como parte de um desafio de estágio, utilizando HTML5 e CSS3 puros com um pouco de JavaScript. A proposta envolve a criação de uma landing page estática com foco em estruturação semântica e design responsivo. Como foi um desafio, a aplicação não possui design responsivo para ínumeras telas, mas principalente pensando na largura de celular com 390px e na largura de computador com 1920px, como sugeria a especificação do figma.
 
 **Tecnologias:**  
 - HTML5  
@@ -35,7 +35,7 @@ Este repositório reúne três projetos distintos desenvolvidos com HTML, CSS, J
 ---
 
 ### 3. [View - Novo Cliente PiteraBox](https://projetointegradortestes.onrender.com/index.html)
-> Site desenvolvido para um cliente fictício (PiteraBox), com objetivo de apresentar produtos e funcionalidades básicas de navegação. Projeto desenvolvido com HTML, CSS, JavaScript e NodeJS com foco em usabilidade e clareza visual.
+> Site desenvolvido para um cliente (PiteraBox), com objetivo de apresentar produtos e funcionalidades básicas de navegação. Projeto desenvolvido com HTML, CSS, JavaScript e NodeJS com foco em usabilidade e clareza visual. Como foi feito para uma aplicação real que será lançada, este design já é mais responsivo na parte de celular, apresentando vários valores de lagura responsíveis.
 
 **Tecnologias:**  
 - HTML5  
