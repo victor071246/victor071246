@@ -4,7 +4,7 @@ Este repositório reúne três projetos distintos desenvolvidos com HTML, CSS, J
 
 ## 🌐 Projetos Hospedados
 
-### 1. [View - Desafio Estágio HTML/CSS](https://view-desafio-estagio-css-html-9vcn.vercel.app/)
+### 1. [View - Desafio Estágio HTML/CSS](https://view-desafio-estagio-css-html-9vcn.vercel.app/) [link do projeto no GitHub](https://github.com/victor071246/View_Desafio_Estagio_CSS_HTML/tree/main)
 > Projeto desenvolvido como parte de um desafio de estágio, utilizando HTML5 e CSS3 puros com um pouco de JavaScript. A proposta envolve a criação de uma landing page estática com foco em estruturação semântica e design responsivo. Como foi um desafio, a aplicação não possui design responsivo para ínumeras telas, mas principalente pensando na largura de celular com 390px e na largura de computador com 1920px, como sugeria a especificação do figma.
 
 **Tecnologias:**  
@@ -19,7 +19,7 @@ Este repositório reúne três projetos distintos desenvolvidos com HTML, CSS, J
 
 ---
 
-### 2. [Desafio React](https://desafio-react-ruddy.vercel.app/)
+### 2. [Desafio React](https://desafio-react-ruddy.vercel.app/) [link do projeto no GitHub](https://github.com/victor071246/desafio_react/tree/master)
 > Aplicação desenvolvida com ReactJS, com foco em componentes reutilizáveis e estilização modular. O projeto visa apresentar fluência na biblioteca React e conceitos modernos de desenvolvimento web.
 
 **Tecnologias:**  
@@ -34,7 +34,7 @@ Este repositório reúne três projetos distintos desenvolvidos com HTML, CSS, J
 
 ---
 
-### 3. [View - Novo Cliente PiteraBox](https://projetointegradortestes.onrender.com/index.html)
+### 3. [View - Novo Cliente PiteraBox](https://projetointegradortestes.onrender.com/index.html) [link do projeto no GitHub] (https://github.com/victor071246/ProjetoIntegradorTestes/tree/main)
 > Site desenvolvido para um cliente (PiteraBox), com objetivo de apresentar produtos e funcionalidades básicas de navegação. Projeto desenvolvido com HTML, CSS, JavaScript e NodeJS com foco em usabilidade e clareza visual. Como foi feito para uma aplicação real que será lançada, este design já é mais responsivo na parte de celular, apresentando vários valores de lagura responsíveis.
 
 **Tecnologias:**  
