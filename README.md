@@ -38,8 +38,7 @@ Este repositório reúne três projetos distintos desenvolvidos com HTML, CSS, J
 
 ### 3. [View - Novo Cliente PiteraBox](https://projetointegradortestes.onrender.com/index.html) 
 [link do projeto no GitHub](https://github.com/victor071246/ProjetoIntegradorTestes/tree/main)
-> Site desenvolvido para um cliente (PiteraBox), com objetivo de apresentar produtos e funcionalidades básicas de navegação. Projeto desenvolvido com HTML, CSS, JavaScript e NodeJS com foco em usabilidade, responsividade e clareza visual. Como foi feito para uma aplicação real que será lançada, este design já é mais responsivo na parte de celular, apresentando vários valores de lagura responsíveis. É conectado pelo backEnd a partir do framework Express e tem a parte de exibição de produtos em toda a aplicação pelos recursos Fetch da linguagem, sendo dinâmica como um todo.
-**Tecnologias:**  
+> Site desenvolvido para um cliente (PiteraBox), com objetivo de apresentar produtos e funcionalidades básicas de navegação. Projeto desenvolvido com HTML, CSS, JavaScript e NodeJS com foco em usabilidade, responsividade e clareza visual. Como foi feito para uma aplicação real que será lançada, este design já é mais responsivo na parte de celular, apresentando vários valores de lagura responsíveis. A aplicação utiliza o framework Express no back-end e exibe dinamicamente os produtos por meio de requisições Fetch. Atendendo à necessidade da empresa, foi implementado um sistema de carrinho que envia mensagens personalizadas via WhatsApp, integrado à exibição responsiva dos produtos.
 - HTML5  
 - CSS3
 - JavaScript
