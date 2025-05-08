@@ -23,8 +23,6 @@ Este repositório reúne três projetos distintos desenvolvidos com HTML, CSS, J
 
 ---
 
----
-
 ### 2. [Desafio React](https://desafio-react-ruddy.vercel.app/) 
 [link do projeto no GitHub](https://github.com/victor071246/desafio_react/tree/master)
 > Aplicação desenvolvida com ReactJS, com foco em componentes reutilizáveis e estilização modular. O projeto visa apresentar fluência na biblioteca React e conceitos modernos de desenvolvimento web.
