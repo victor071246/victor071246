@@ -4,19 +4,24 @@ Este repositório reúne três projetos distintos desenvolvidos com HTML, CSS, J
 
 ## 🌐 Projetos Hospedados
 
-### 1. [View - Desafio Estágio HTML/CSS](https://view-desafio-estagio-css-html-9vcn.vercel.app/) 
-[link do projeto no GitHub](https://github.com/victor071246/View_Desafio_Estagio_CSS_HTML/tree/main)
-> Projeto desenvolvido como parte de um desafio de estágio, utilizando HTML5 e CSS3 puros com um pouco de JavaScript. A proposta envolve a criação de uma landing page estática com foco em estruturação semântica e design responsivo. Como foi um desafio, a aplicação não possui design responsivo para ínumeras telas, mas principalente pensando na largura de celular com 390px e na largura de computador com 1920px, como sugeria a especificação do figma.
+### 1. [PiteraBox](https://projetointegradortestes.onrender.com/index.html) 
+[link do projeto no GitHub](https://github.com/victor071246/ProjetoIntegradorTestes/tree/main)
+> Site desenvolvido para um cliente (PiteraBox), com objetivo de apresentar produtos e funcionalidades básicas de navegação. Projeto desenvolvido com HTML, CSS, JavaScript e NodeJS com foco em usabilidade, responsividade e clareza visual. Como foi feito para uma aplicação real que será lançada, este design já é mais responsivo na parte de celular, apresentando vários valores de lagura responsíveis. A aplicação utiliza o framework Express no back-end e exibe dinamicamente os produtos por meio de requisições Fetch. Atendendo à necessidade da empresa, foi implementado um sistema de carrinho que envia mensagens personalizadas via WhatsApp, integrado à exibição responsiva dos produtos. A aplicação também conta com autenticação de senha hasheada e sessão com duração por cookie.
 
-**Tecnologias:**  
 - HTML5  
 - CSS3
-- JavaScript  
+- JavaScript
+- Node.JS
+- Mongo.DB
+- Login protegido com BCript e Middleware de autenticação baseado em cookies  
 
 **Funcionalidades:**
-- Layout responsivo
-- Menu de navegação
-- Carrossel Swiper em JS
+- Página inicial com imagem e navegação
+- Links para produtos e login
+- Estilização personalizada
+- Cadastro e exclusão de produtos via CRUD e API express.js
+
+---
 
 ---
 
@@ -36,22 +41,19 @@ Este repositório reúne três projetos distintos desenvolvidos com HTML, CSS, J
 
 ---
 
-### 3. [View - Novo Cliente PiteraBox](https://projetointegradortestes.onrender.com/index.html) 
-[link do projeto no GitHub](https://github.com/victor071246/ProjetoIntegradorTestes/tree/main)
-> Site desenvolvido para um cliente (PiteraBox), com objetivo de apresentar produtos e funcionalidades básicas de navegação. Projeto desenvolvido com HTML, CSS, JavaScript e NodeJS com foco em usabilidade, responsividade e clareza visual. Como foi feito para uma aplicação real que será lançada, este design já é mais responsivo na parte de celular, apresentando vários valores de lagura responsíveis. A aplicação utiliza o framework Express no back-end e exibe dinamicamente os produtos por meio de requisições Fetch. Atendendo à necessidade da empresa, foi implementado um sistema de carrinho que envia mensagens personalizadas via WhatsApp, integrado à exibição responsiva dos produtos.
+### 3. [View - Desafio Estágio HTML/CSS](https://view-desafio-estagio-css-html-9vcn.vercel.app/) 
+[link do projeto no GitHub](https://github.com/victor071246/View_Desafio_Estagio_CSS_HTML/tree/main)
+> Projeto desenvolvido como parte de um desafio de estágio, utilizando HTML5 e CSS3 puros com um pouco de JavaScript. A proposta envolve a criação de uma landing page estática com foco em estruturação semântica e design responsivo. Como foi um desafio, a aplicação não possui design responsivo para ínumeras telas, mas principalente pensando na largura de celular com 390px e na largura de computador com 1920px, como sugeria a especificação do figma.
+
+**Tecnologias:**  
 - HTML5  
 - CSS3
-- JavaScript
-- Node.JS
-- Mongo.DB  
+- JavaScript  
 
 **Funcionalidades:**
-- Página inicial com imagem e navegação
-- Links para produtos e login
-- Estilização personalizada
-- Cadastro e exclusão de produtos via CRUD e API express.js
-
----
+- Layout responsivo
+- Menu de navegação
+- Carrossel Swiper em JS
 
 ## 🚀 Deploy
 Tanto o projeto responsivo quanto o desafio em react, foram implementados na [Vercel](https://vercel.com/).
