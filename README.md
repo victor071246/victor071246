@@ -27,9 +27,6 @@ Este repositório reúne três projetos distintos desenvolvidos com HTML, CSS, J
 
 Este projeto é uma landing page responsiva desenvolvida com **React**, **TypeScript** e **TailwindCSS**, simulando a interface de um terminal de comando. O foco é apresentar conteúdo linha por linha, como se estivesse sendo digitado, com suporte ao **modo claro/escuro** e responsividade para desktop e dispositivos móveis.
 
-🔗 
-
----
 
 ## 🧠 Funcionalidades
 
@@ -39,8 +36,6 @@ Este projeto é uma landing page responsiva desenvolvida com **React**, **TypeSc
 - ⚡ Rápido e leve, utilizando o **Vite** como bundler.
 - ✨ Estilizado inteiramente com **TailwindCSS**.
 
----
-
 ## 🚀 Tecnologias Utilizadas
 
 - [React](https://reactjs.org/)
@@ -48,7 +43,6 @@ Este projeto é uma landing page responsiva desenvolvida com **React**, **TypeSc
 - [TailwindCSS](https://tailwindcss.com/)
 - [Vite](https://vitejs.dev/)
 - [Vercel](https://site-terminal-typescript-tail-git-bc4efc-victor071246s-projects.vercel.app/) (deploy)
-
 
 ---
 
