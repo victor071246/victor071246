@@ -22,8 +22,37 @@ Este repositório reúne três projetos distintos desenvolvidos com HTML, CSS, J
 - Cadastro e exclusão de produtos via CRUD e API express.js
 
 ---
+### 2. [Terminal Website — React + TypeScript + Tailwind](https://site-terminal-typescript-tail-git-bc4efc-victor071246s-projects.vercel.app/)
+[link do projeto no GitHub](https://github.com/victor071246/site-terminal-typescript-tailwind)
 
-### 2. [Desafio React](https://desafio-react-ruddy.vercel.app/) 
+Este projeto é uma landing page responsiva desenvolvida com **React**, **TypeScript** e **TailwindCSS**, simulando a interface de um terminal de comando. O foco é apresentar conteúdo linha por linha, como se estivesse sendo digitado, com suporte ao **modo claro/escuro** e responsividade para desktop e dispositivos móveis.
+
+🔗 
+
+---
+
+## 🧠 Funcionalidades
+
+- 🎨 Alternância entre **modo claro e escuro** com uso de **hooks React**.
+- ⌨️ Interface simulando **terminal**, com **efeito de digitação** linha a linha.
+- 📱 **Responsivo**: adaptado para computadores e smartphones.
+- ⚡ Rápido e leve, utilizando o **Vite** como bundler.
+- ✨ Estilizado inteiramente com **TailwindCSS**.
+
+---
+
+## 🚀 Tecnologias Utilizadas
+
+- [React](https://reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [TailwindCSS](https://tailwindcss.com/)
+- [Vite](https://vitejs.dev/)
+- [Vercel](https://site-terminal-typescript-tail-git-bc4efc-victor071246s-projects.vercel.app/) (deploy)
+
+
+---
+
+### 3. [Desafio React](https://desafio-react-ruddy.vercel.app/) 
 [link do projeto no GitHub](https://github.com/victor071246/desafio_react/tree/master)
 > Aplicação desenvolvida com ReactJS, com foco em componentes reutilizáveis e estilização modular. O projeto visa apresentar fluência na biblioteca React e conceitos modernos de desenvolvimento web.
 
@@ -39,7 +68,7 @@ Este repositório reúne três projetos distintos desenvolvidos com HTML, CSS, J
 
 ---
 
-### 3. [View - Desafio Estágio HTML/CSS](https://view-desafio-estagio-css-html-9vcn.vercel.app/) 
+### 4. [View - Desafio Estágio HTML/CSS](https://view-desafio-estagio-css-html-9vcn.vercel.app/) 
 [link do projeto no GitHub](https://github.com/victor071246/View_Desafio_Estagio_CSS_HTML/tree/main)
 > Projeto desenvolvido como parte de um desafio de estágio, utilizando HTML5 e CSS3 puros com um pouco de JavaScript. A proposta envolve a criação de uma landing page estática com foco em estruturação semântica e design responsivo. Como foi um desafio, a aplicação não possui design responsivo para ínumeras telas, mas principalente pensando na largura de celular com 390px e na largura de computador com 1920px, como sugeria a especificação do figma.
 
