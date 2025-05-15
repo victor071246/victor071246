@@ -28,14 +28,14 @@ Este repositório reúne três projetos distintos desenvolvidos com HTML, CSS, J
 >Este projeto é uma landing page responsiva desenvolvida com **React**, **TypeScript** e **TailwindCSS**, simulando a interface de um terminal de comando. O foco é apresentar conteúdo linha por linha, como se estivesse sendo digitado, com suporte ao **modo claro/escuro** e responsividade para desktop e dispositivos móveis.
 
 
-## 🧠 Funcionalidades
+## Funcionalidades
 
 - Alternância entre **modo claro e escuro** com uso de **hooks React**.
 - Interface simulando **terminal**, com **efeito de digitação** linha a linha.
 - **Responsivo**: adaptado para computadores e smartphones.
    Estilizado inteiramente com **TailwindCSS**.
 
-## 🚀 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - [React](https://reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
