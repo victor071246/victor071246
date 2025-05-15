@@ -25,7 +25,7 @@ Este repositório reúne três projetos distintos desenvolvidos com HTML, CSS, J
 ### 2. [Terminal Website — React + TypeScript + Tailwind](https://site-terminal-typescript-tail-git-bc4efc-victor071246s-projects.vercel.app/)
 [link do projeto no GitHub](https://github.com/victor071246/site-terminal-typescript-tailwind)
 
-Este projeto é uma landing page responsiva desenvolvida com **React**, **TypeScript** e **TailwindCSS**, simulando a interface de um terminal de comando. O foco é apresentar conteúdo linha por linha, como se estivesse sendo digitado, com suporte ao **modo claro/escuro** e responsividade para desktop e dispositivos móveis.
+>Este projeto é uma landing page responsiva desenvolvida com **React**, **TypeScript** e **TailwindCSS**, simulando a interface de um terminal de comando. O foco é apresentar conteúdo linha por linha, como se estivesse sendo digitado, com suporte ao **modo claro/escuro** e responsividade para desktop e dispositivos móveis.
 
 
 ## 🧠 Funcionalidades
