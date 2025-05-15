@@ -30,11 +30,10 @@ Este projeto é uma landing page responsiva desenvolvida com **React**, **TypeSc
 
 ## 🧠 Funcionalidades
 
-- 🎨 Alternância entre **modo claro e escuro** com uso de **hooks React**.
-- ⌨️ Interface simulando **terminal**, com **efeito de digitação** linha a linha.
-- 📱 **Responsivo**: adaptado para computadores e smartphones.
-- ⚡ Rápido e leve, utilizando o **Vite** como bundler.
-- ✨ Estilizado inteiramente com **TailwindCSS**.
+- Alternância entre **modo claro e escuro** com uso de **hooks React**.
+- Interface simulando **terminal**, com **efeito de digitação** linha a linha.
+- **Responsivo**: adaptado para computadores e smartphones.
+   Estilizado inteiramente com **TailwindCSS**.
 
 ## 🚀 Tecnologias Utilizadas
 
