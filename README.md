@@ -1,6 +1,6 @@
 # Portfólio de Projetos Web
 
-Este repositório reúne três projetos distintos desenvolvidos com HTML, CSS, JavaScript e React, hospedados na Vercel. Os projetos demonstram habilidades em estruturação de páginas, responsividade e boas práticas de front-end.
+Este repositório reúne três projetos distintos desenvolvidos com HTML, CSS, JavaScript e React. Os projetos demonstram habilidades em estruturação de páginas, responsividade e boas práticas de front-end.
 
 ## 🌐 Projetos Hospedados
 
